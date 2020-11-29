@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>WebME_BOM_NewWebApp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\Modules\" />
+    <Folder Include="Pages\Components\" />
+    <Folder Include="Pages\Rings\" />
+    <Folder Include="Pages\Splices\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebME-BOM_NewWebApp.Data\WebME-BOM_NewWebApp.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Core\\WebME-BOM_NewWebApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Core\\WebME-BOM_NewWebApp.Core.csproj",
+        "projectName": "WebME-BOM_NewWebApp.Core",
+        "projectPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Core\\WebME-BOM_NewWebApp.Core.csproj",
+        "packagesPath": "C:\\Users\\cj0d7s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cj0d7s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Data\\WebME-BOM_NewWebApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Data\\WebME-BOM_NewWebApp.Data.csproj",
+        "projectName": "WebME-BOM_NewWebApp.Data",
+        "projectPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Data\\WebME-BOM_NewWebApp.Data.csproj",
+        "packagesPath": "C:\\Users\\cj0d7s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cj0d7s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Core\\WebME-BOM_NewWebApp.Core.csproj": {
+                "projectPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Core\\WebME-BOM_NewWebApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.csproj",
+        "projectName": "WebME-BOM_NewWebApp",
+        "projectPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.csproj",
+        "packagesPath": "C:\\Users\\cj0d7s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cj0d7s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Data\\WebME-BOM_NewWebApp.Data.csproj": {
+                "projectPath": "C:\\Users\\cj0d7s\\source\\repos\\WebME-BOM_NewWebApp\\WebME-BOM_NewWebApp.Data\\WebME-BOM_NewWebApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

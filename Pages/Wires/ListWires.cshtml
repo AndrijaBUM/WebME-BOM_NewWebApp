@@ -1,0 +1,29 @@
+﻿@page
+@model WebME_BOM_NewWebApp.Pages.Wires.ListWiresModel
+@{
+}
+<h1>Wires</h1>
+
+<table class="table">
+    @foreach(var wire in Model.Wires)
+    {
+    <tr>
+        <td>@wire.WireName</td>
+        <td>@wire.WireType</td>
+        <td>@wire.WireCarSide</td>
+        <td>@wire.Color</td>
+        <td>@wire.Diameter</td>
+        <td>@wire.Mspeck</td>
+        <td>@wire.Length</td>
+        <td>@wire.FromPos</td>
+        <td>@wire.FromCavity</td>
+        <td>@wire.ToPos</td>
+        <td>@wire.ToCavity</td>
+    </tr>
+    }
+</table>
+
+<div>
+    <p>@Model.Message</p>
+    <p>@Model.Message1</p>
+</div>
